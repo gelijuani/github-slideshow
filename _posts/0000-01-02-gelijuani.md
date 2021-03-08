@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+If you can't say anything nice, say nothing at all.
 Use the left arrow to go back!
